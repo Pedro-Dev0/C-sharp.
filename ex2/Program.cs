@@ -29,7 +29,7 @@ Console.WriteLine(false ^ true);   // output: True
 Console.WriteLine(false ^ false);  // output: False*/
 
 
-int z = 1 + 2 + 3;
+/*int z = 1 + 2 + 3;
 int x = 6;
 Console.WriteLine(z == x);  // output: True
 
@@ -43,4 +43,31 @@ string s2 = "HeLLo!";
 Console.WriteLine(s1 == s2.ToLower());  // output: True
 
 string s3 = "Hello!";
-Console.WriteLine(s1 == s3);  // output: False
+Console.WriteLine(s1 == s3);  // output: False*/
+
+int Var1 = 10;
+int Var2 = 20;
+int Var3 = 30;
+
+Console.WriteLine(Var1);
+Console.WriteLine(Var2);
+Console.WriteLine(Var3);
+
+Console.WriteLine(Var1 < Var2);
+Console.WriteLine(Var1 > Var2);
+Console.WriteLine(Var2 == Var3);
+Console.WriteLine(Var2 != Var3);
+
+Var1++;
+Var2--;
+
+Console.WriteLine(Var1);
+Console.WriteLine(Var2);
+
+Console.WriteLine(Var1++);
+Console.WriteLine(Var1);
+
+Console.WriteLine(--Var2);
+Console.WriteLine(Var2);
+
+
