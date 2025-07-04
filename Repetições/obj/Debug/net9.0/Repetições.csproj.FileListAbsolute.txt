@@ -1,0 +1,15 @@
+C:\Users\Malleus\Documents\GitHub\C-sharp\Repetições\bin\Debug\net9.0\Repetições.exe
+C:\Users\Malleus\Documents\GitHub\C-sharp\Repetições\bin\Debug\net9.0\Repetições.deps.json
+C:\Users\Malleus\Documents\GitHub\C-sharp\Repetições\bin\Debug\net9.0\Repetições.runtimeconfig.json
+C:\Users\Malleus\Documents\GitHub\C-sharp\Repetições\bin\Debug\net9.0\Repetições.dll
+C:\Users\Malleus\Documents\GitHub\C-sharp\Repetições\bin\Debug\net9.0\Repetições.pdb
+C:\Users\Malleus\Documents\GitHub\C-sharp\Repetições\obj\Debug\net9.0\Repetições.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malleus\Documents\GitHub\C-sharp\Repetições\obj\Debug\net9.0\Repetições.AssemblyInfoInputs.cache
+C:\Users\Malleus\Documents\GitHub\C-sharp\Repetições\obj\Debug\net9.0\Repetições.AssemblyInfo.cs
+C:\Users\Malleus\Documents\GitHub\C-sharp\Repetições\obj\Debug\net9.0\Repetições.csproj.CoreCompileInputs.cache
+C:\Users\Malleus\Documents\GitHub\C-sharp\Repetições\obj\Debug\net9.0\Repetições.sourcelink.json
+C:\Users\Malleus\Documents\GitHub\C-sharp\Repetições\obj\Debug\net9.0\Repetições.dll
+C:\Users\Malleus\Documents\GitHub\C-sharp\Repetições\obj\Debug\net9.0\refint\Repetições.dll
+C:\Users\Malleus\Documents\GitHub\C-sharp\Repetições\obj\Debug\net9.0\Repetições.pdb
+C:\Users\Malleus\Documents\GitHub\C-sharp\Repetições\obj\Debug\net9.0\Repetições.genruntimeconfig.cache
+C:\Users\Malleus\Documents\GitHub\C-sharp\Repetições\obj\Debug\net9.0\ref\Repetições.dll
