@@ -44,8 +44,8 @@ Console.WriteLine(s1 == s2.ToLower());  // output: True
 
 string s3 = "Hello!";
 Console.WriteLine(s1 == s3);  // output: False*/
-
-/*int Var1 = 10;
+/*
+int Var1 = 10;
 int Var2 = 20;
 int Var3 = 30;
 
