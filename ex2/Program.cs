@@ -45,7 +45,7 @@ Console.WriteLine(s1 == s2.ToLower());  // output: True
 string s3 = "Hello!";
 Console.WriteLine(s1 == s3);  // output: False*/
 
-int Var1 = 10;
+/*int Var1 = 10;
 int Var2 = 20;
 int Var3 = 30;
 
@@ -68,6 +68,56 @@ Console.WriteLine(Var1++);
 Console.WriteLine(Var1);
 
 Console.WriteLine(--Var2);
-Console.WriteLine(Var2);
+Console.WriteLine(Var2);*/
+
+
+
+int m = 12;
+int n = 18;
+
+if (m > 10)
+    if (n > 20)
+    {
+        Console.WriteLine("Result1");
+    }
+    else
+    {
+        Console.WriteLine("Result2");
+    }
+{
+    Console.WriteLine("Maior que 10");
+}
+
+
+/*     int caseSwitch = 2;
+
+      switch (caseSwitch)
+      {
+          case 1:
+              Console.WriteLine("Case 1");
+              break;
+          case 2:
+              Console.WriteLine("Case 2");
+              break;
+          default:
+              Console.WriteLine("Default case");
+              break;
+      }*/
+
+
+int janRaposo = 0;
+
+switch (janRaposo)
+{
+    case 1:
+        Console.WriteLine("Casa com Vicdu");
+        break;
+    case 2:
+        Console.WriteLine("Casa com uma farsa de Vicdu");
+        break;
+    default:
+        Console.WriteLine("Fica sozinho por medo de gorda");
+        break;
+}
 
 
